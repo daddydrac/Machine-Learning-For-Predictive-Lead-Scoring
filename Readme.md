@@ -58,7 +58,7 @@ We propose to create a lead scoring model that will rank customers according to 
 Quantifying the impact of the campaign empirically will require the design prior to and execution of a controlled experiment when the campaign is deployed. Two weeks prior to model deployment, we’ll deliver a report outlining the experimental design and two weeks following the conclusion of the campaign, we’ll deliver a report summarizing the results.
 
 ### Outcome
-If the bank observes a significant increase in ROI as a result of the development and deployment of the lead scoring model, the engineering team will be tasked with integrating the  model into a CRM system, making the deployment of future models faster and cheaper. 
+Ssignificant increases in ROI typically result of the development and deployment of the lead scoring model, however this code needs integration into the  model of a CRM or existing system. 
 
 ## Key Insights
 
