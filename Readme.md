@@ -6,7 +6,7 @@ Predictive Analytics leverages Machine Learning to provide your sales and market
 * This can be used to augment my other project,(Identifying New Customers Using Machine Learning for B2B-sales)[https://github.com/joehoeller/Identifying-New-Customers-Using-Machine-Learning-for-B2B-sales].
 
 
-()[ls.png]
+(github-small)[ls.png]
 
 
 ### How can machine learning assist the sales cycle?
