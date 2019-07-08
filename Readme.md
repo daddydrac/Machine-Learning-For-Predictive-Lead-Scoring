@@ -131,7 +131,7 @@ A supporting library that encapsulates ML model objects and provides tools for e
 * scikit-learn==0.20.0
 
 
-### Need help integrating into your sales program?
+### Need help integrating into your sales and/or CRM program?
 
 If building impactful machine learning that delivers real business value is important to you or your business, please [get in touch](https://www.linkedin.com/in/computer-vision-engineer/).
 
