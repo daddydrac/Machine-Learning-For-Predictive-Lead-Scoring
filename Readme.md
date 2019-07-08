@@ -5,9 +5,7 @@ Predictive Analytics leverages Machine Learning to provide your sales and market
 
 * This can be used to augment my other project,(Identifying New Customers Using Machine Learning for B2B-sales)[https://github.com/joehoeller/Identifying-New-Customers-Using-Machine-Learning-for-B2B-sales].
 
-
-(github-small)[ls.png]
-
+![github-small](ls.png)
 
 ### How can machine learning assist the sales cycle?
 Machine learning allows you to ‘train’ algorithms to make accurate predictions about new customers or current but unknown customers using verified customer data. A machine-learning algorithm runs through a database of customer data and establishes trends, recognized patterns and builds a model from the data, in order to create a prediction model.
