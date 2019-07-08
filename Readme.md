@@ -1,7 +1,7 @@
 # AI & Machine Learning For Predictive Lead Scoring
 
 ### Predictive Lead Scoring does all the hard work for you
-Predictive Analytics leverages Machine Learning to provide your sales and marketing team with in-depth customer knowledge and ways to target the hottest and most qualified leads – resulting in saved time and higher revenue streams.
+Predictive analytics with Machine Learning can provide your sales and marketing team with in-depth customer knowledge and ways to target the hottest and most qualified leads – resulting in saved time and higher revenue streams.
 
 * This can be used to augment my other project,(Identifying New Customers Using Machine Learning for B2B-sales)[https://github.com/joehoeller/Identifying-New-Customers-Using-Machine-Learning-for-B2B-sales].
 
