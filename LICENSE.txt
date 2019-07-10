@@ -1,0 +1,228 @@
+Machine-Learning-For-Predictive-Lead-Scoring LICENSE AGREEMENT
+
+PLEASE READ CAREFULLY THIS Machine-Learning-For-Predictive-Lead-Scoring LICENSE AGREEMENT (THIS "AGREEMENT"), WHICH
+CONSTITUTES A LEGALLY BINDING AGREEMENT AND GOVERNS ALL OF YOUR USE OF ALL OF
+THE Machine-Learning-For-Predictive-Lead-Scoring SOFTWARE WITH WHICH THIS AGREEMENT IS INCLUDED ("Machine-Learning-For-Predictive-Lead-Scoring SOFTWARE")
+THAT IS PROVIDED IN OBJECT CODE FORMAT, AND, IN ACCORDANCE WITH SECTION 2 BELOW,
+CERTAIN OF THE Machine-Learning-For-Predictive-Lead-Scoring SOFTWARE THAT IS PROVIDED IN SOURCE CODE FORMAT. BY
+INSTALLING OR USING ANY OF THE Machine-Learning-For-Predictive-Lead-Scoring SOFTWARE GOVERNED BY THIS AGREEMENT, YOU
+ARE ASSENTING TO THE TERMS AND CONDITIONS OF THIS AGREEMENT. IF YOU DO NOT AGREE
+WITH SUCH TERMS AND CONDITIONS, YOU MAY NOT INSTALL OR USE THE Machine-Learning-For-Predictive-Lead-Scoring SOFTWARE
+GOVERNED BY THIS AGREEMENT. IF YOU ARE INSTALLING OR USING THE SOFTWARE ON
+BEHALF OF A LEGAL ENTITY, YOU REPRESENT AND WARRANT THAT YOU HAVE THE ACTUAL
+AUTHORITY TO AGREE TO THE TERMS AND CONDITIONS OF THIS AGREEMENT ON BEHALF OF
+SUCH ENTITY.
+
+Posted Date: July 8, 2019
+
+This Agreement is entered into by and between Machine-Learning-For-Predictive-Lead-Scoring BV ("Machine-Learning-For-Predictive-Lead-Scoring") and
+You, or the legal entity on behalf of whom You are acting (as applicable,
+"You").
+
+1. OBJECT CODE END USER LICENSES, RESTRICTIONS AND THIRD PARTY OPEN SOURCE
+SOFTWARE
+
+  1.1 Object Code End User License. Subject to the terms and conditions of
+  Section 1.2 of this Agreement, Machine-Learning-For-Predictive-Lead-Scoring hereby grants to You, AT NO CHARGE and
+  for so long as you are not in breach of any provision of this Agreement, a
+  License to the Basic Features and Functions of the Machine-Learning-For-Predictive-Lead-Scoring Software.
+
+  1.2 Reservation of Rights; Restrictions. As between Machine-Learning-For-Predictive-Lead-Scoring and You, Machine-Learning-For-Predictive-Lead-Scoring
+  and its licensors own all right, title and interest in and to the Machine-Learning-For-Predictive-Lead-Scoring
+  Software, and except as expressly set forth in Sections 1.1, and 2.1 of this
+  Agreement, no other license to the Machine-Learning-For-Predictive-Lead-Scoring Software is granted to You under
+  this Agreement, by implication, estoppel or otherwise. You agree not to: (i)
+  reverse engineer or decompile, decrypt, disassemble or otherwise reduce any
+  Machine-Learning-For-Predictive-Lead-Scoring Software provided to You in Object Code, or any portion thereof, to
+  Source Code, except and only to the extent any such restriction is prohibited
+  by applicable law, (ii) except as expressly permitted in this Agreement,
+  prepare derivative works from, modify, copy or use the Machine-Learning-For-Predictive-Lead-Scoring Software Object
+  Code or the Commercial Software Source Code in any manner; (iii) except as
+  expressly permitted in Section 1.1 above, transfer, sell, rent, lease,
+  distribute, sublicense, loan or otherwise transfer, Machine-Learning-For-Predictive-Lead-Scoring Software Object
+  Code, in whole or in part, to any third party; (iv) use Machine-Learning-For-Predictive-Lead-Scoring Software
+  Object Code for providing time-sharing services, any software-as-a-service,
+  service bureau services or as part of an application services provider or
+  other service offering (collectively, "SaaS Offering") where obtaining access
+  to the Machine-Learning-For-Predictive-Lead-Scoring Software or the features and functions of the Machine-Learning-For-Predictive-Lead-Scoring Software
+  is a primary reason or substantial motivation for users of the SaaS Offering
+  to access and/or use the SaaS Offering ("Prohibited SaaS Offering"); (v)
+  circumvent the limitations on use of Machine-Learning-For-Predictive-Lead-Scoring Software provided to You in
+  Object Code format that are imposed or preserved by any License Key, or (vi)
+  alter or remove any Marks and Notices in the Machine-Learning-For-Predictive-Lead-Scoring Software. If You have any
+  question as to whether a specific SaaS Offering constitutes a Prohibited SaaS
+  Offering, or are interested in obtaining Machine-Learning-For-Predictive-Lead-Scoring's permission to engage in
+  commercial or non-commercial distribution of the Machine-Learning-For-Predictive-Lead-Scoring Software, please
+  contact joehoeller@gmail.com to get permission, along with a paid for license to do so.
+
+  1.3 Third Party Open Source Software. The Commercial Software may contain or
+  be provided with third party open source libraries, components, utilities and
+  other open source software (collectively, "Open Source Software"), which Open
+  Source Software may have applicable license terms as identified on a website
+  designated by Machine-Learning-For-Predictive-Lead-Scoring. Notwithstanding anything to the contrary herein, use of
+  the Open Source Software shall be subject to the license terms and conditions
+  applicable to such Open Source Software, to the extent required by the
+  applicable licensor (which terms shall not restrict the license rights granted
+  to You hereunder, but may contain additional rights). To the extent any
+  condition of this Agreement conflicts with any license to the Open Source
+  Software, the Open Source Software license will govern with respect to such
+  Open Source Software only. Machine-Learning-For-Predictive-Lead-Scoring may also separately provide you with
+  certain open source software that is licensed by Machine-Learning-For-Predictive-Lead-Scoring. Your use of such
+  Machine-Learning-For-Predictive-Lead-Scoring open source software will not be governed by this Agreement, but by
+  the applicable open source license terms.
+
+2. COMMERCIAL SOFTWARE SOURCE CODE
+
+  2.1 Limited License. Subject to the terms and conditions of Section 2.2 of
+  this Agreement, Machine-Learning-For-Predictive-Lead-Scoring hereby grants to You, AT NO CHARGE and for so long as
+  you are not in breach of any provision of this Agreement, a limited,
+  non-exclusive, non-transferable, fully paid up royalty free right and license
+  to the Commercial Software in Source Code format, without the right to grant
+  or authorize sublicenses, to prepare Derivative Works of the Commercial
+  Software, provided You (i) do not hack the licensing mechanism, or otherwise
+  circumvent the intended limitations on the use of Machine-Learning-For-Predictive-Lead-Scoring Software to enable
+  features other than Basic Features and Functions or those features You are
+  entitled to as part of a Subscription, and (ii) use the resulting object code
+  only for reasonable testing purposes.
+
+  2.2 Restrictions. Nothing in Section 2.1 grants You the right to (i) use the
+  Commercial Software Source Code other than in accordance with Section 2.1
+  above, (ii) use a Derivative Work of the Commercial Software outside of a
+  Non-production Environment, in any production capacity, on a temporary or
+  permanent basis, or (iii) transfer, sell, rent, lease, distribute, sublicense,
+  loan or otherwise make available the Commercial Software Source Code, in whole
+  or in part, to any third party. Notwithstanding the foregoing, You may
+  maintain a copy of the repository in which the Source Code of the Commercial
+  Software resides and that copy may be publicly accessible, provided that you
+  include this Agreement with Your copy of the repository. Any and all companies
+  with over 120 employees at time of download must contact Joe Hoeller at
+  joehoeller@gmail.com for written permission to use any part of this code,
+  object code, or derivative work thereof for an annual paid for license that
+  will expire once every 12 months.
+
+3. TERMINATION
+
+  3.1 Termination. This Agreement will automatically terminate, whether or not
+  You receive notice of such Termination from Machine-Learning-For-Predictive-Lead-Scoring, if You breach any of its
+  provisions.
+
+  3.2 Post Termination. Upon any termination of this Agreement, for any reason,
+  You shall promptly cease the use of the Machine-Learning-For-Predictive-Lead-Scoring Software in Object Code format
+  and cease use of the Commercial Software in Source Code format. For the
+  avoidance of doubt, termination of this Agreement will not affect Your right
+  to use Machine-Learning-For-Predictive-Lead-Scoring Software, in either Object Code or Source Code formats, made
+  available under the Apache License Version 2.0.
+
+  3.3 Survival. Sections 1.2, 2.2. 3.3, 4 and 5 shall survive any termination or
+  expiration of this Agreement.
+
+4. DISCLAIMER OF WARRANTIES AND LIMITATION OF LIABILITY
+
+  4.1 Disclaimer of Warranties. TO THE MAXIMUM EXTENT PERMITTED UNDER APPLICABLE
+  LAW, THE Machine-Learning-For-Predictive-Lead-Scoring SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND,
+  AND Machine-Learning-For-Predictive-Lead-Scoring AND ITS LICENSORS MAKE NO WARRANTIES WHETHER EXPRESSED, IMPLIED OR
+  STATUTORY REGARDING OR RELATING TO THE Machine-Learning-For-Predictive-Lead-Scoring SOFTWARE. TO THE MAXIMUM EXTENT
+  PERMITTED UNDER APPLICABLE LAW, Machine-Learning-For-Predictive-Lead-Scoring AND ITS LICENSORS SPECIFICALLY
+  DISCLAIM ALL IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+  PURPOSE AND NON-INFRINGEMENT WITH RESPECT TO THE Machine-Learning-For-Predictive-Lead-Scoring SOFTWARE, AND WITH
+  RESPECT TO THE USE OF THE FOREGOING. FURTHER, Machine-Learning-For-Predictive-Lead-Scoring DOES NOT WARRANT RESULTS
+  OF USE OR THAT THE Machine-Learning-For-Predictive-Lead-Scoring SOFTWARE WILL BE ERROR FREE OR THAT THE USE OF THE
+  Machine-Learning-For-Predictive-Lead-Scoring SOFTWARE WILL BE UNINTERRUPTED.
+
+  4.2 Limitation of Liability. IN NO EVENT SHALL Machine-Learning-For-Predictive-Lead-Scoring OR ITS LICENSORS BE
+  LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DIRECT OR INDIRECT DAMAGES,
+  INCLUDING, WITHOUT LIMITATION, FOR ANY LOSS OF PROFITS, LOSS OF USE, BUSINESS
+  INTERRUPTION, LOSS OF DATA, COST OF SUBSTITUTE GOODS OR SERVICES, OR FOR ANY
+  SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES OF ANY KIND, IN CONNECTION WITH
+  OR ARISING OUT OF THE USE OR INABILITY TO USE THE Machine-Learning-For-Predictive-Lead-Scoring SOFTWARE, OR THE
+  PERFORMANCE OF OR FAILURE TO PERFORM THIS AGREEMENT, WHETHER ALLEGED AS A
+  BREACH OF CONTRACT OR TORTIOUS CONDUCT, INCLUDING NEGLIGENCE, EVEN IF Machine-Learning-For-Predictive-Lead-Scoring
+  HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+5. MISCELLANEOUS
+
+  This Agreement completely and exclusively states the entire agreement of the
+  parties regarding the subject matter herein, and it supersedes, and its terms
+  govern, all prior proposals, agreements, or other communications between the
+  parties, oral or written, regarding such subject matter. This Agreement may be
+  modified by Machine-Learning-For-Predictive-Lead-Scoring from time to time, and any such modifications will be
+  effective upon the "Posted Date" set forth at the top of the modified
+  Agreement. If any provision hereof is held unenforceable, this Agreement will
+  continue without said provision and be interpreted to reflect the original
+  intent of the parties. This Agreement and any non-contractual obligation
+  arising out of or in connection with it, is governed exclusively by Dutch law.
+  This Agreement shall not be governed by the 1980 UN Convention on Contracts
+  for the International Sale of Goods. All disputes arising out of or in
+  connection with this Agreement, including its existence and validity, shall be
+  resolved by the courts with jurisdiction in Chicago, Illinois, The parties hereby
+  irrevocably waive any and all claims and defenses either might
+  otherwise have in any such action or proceeding in any of such
+  courts based upon any alleged lack of personal
+  jurisdiction, improper venue, forum non conveniens or any similar claim or
+  defense. A breach or threatened breach, by You of Section 2 may cause
+  irreparable harm for which damages at law may not provide adequate relief, and
+  therefore Machine-Learning-For-Predictive-Lead-Scoring shall be entitled to seek injunctive relief without being
+  required to post a bond. You may not assign this Agreement (including by
+  operation of law in connection with a merger or acquisition), in whole or in
+  part to any third party without the prior written consent of Machine-Learning-For-Predictive-Lead-Scoring, which
+  may be withheld or granted by Machine-Learning-For-Predictive-Lead-Scoring in its sole and absolute discretion.
+  Any assignment in violation of the preceding sentence is void. Notices to
+  Machine-Learning-For-Predictive-Lead-Scoring may also be sent to joehoeller@gmail.com.
+
+  By downloading this software, you automatically agree to all of the terms set
+  within this license.
+
+6. DEFINITIONS
+
+  The following terms have the meanings ascribed:
+
+  6.1 "Affiliate" means, with respect to a party, any entity that controls, is
+  controlled by, or which is under common control with, such party, where
+  "control" means ownership of at least fifty percent (50%) of the outstanding
+  voting shares of the entity, or the contractual right to establish policy for,
+  and manage the operations of, the entity.
+
+  6.2 "Basic Features and Functions" means those features and functions of the
+  Machine-Learning-For-Predictive-Lead-Scoring Software that are eligible for use under a Basic license, as set forth
+  at will and any given time by Joe Hoeller (joehoeller@gmail.com), as may be modified by Machine-Learning-For-Predictive-Lead-Scoring from
+  time to time.
+
+  6.3 "Commercial Software" means the Machine-Learning-For-Predictive-Lead-Scoring Software Source Code in any file
+  containing a header stating the contents are subject to the Machine-Learning-For-Predictive-Lead-Scoring License or
+  which is contained in the GitHub repository folder.
+
+  6.4 "Derivative Work of the Commercial Software" means, for purposes of this
+  Agreement, any modification(s) or enhancement(s) to the Commercial Software,
+  which represent, as a whole, an original work of authorship.
+
+  6.5 "License" means a limited, non-exclusive, non-transferable, fully paid up,
+  royalty free, right and license, without the right to grant or authorize
+  sublicenses, solely for Your internal business operations to (i) install and
+  use the applicable Features and Functions of the Machine-Learning-For-Predictive-Lead-Scoring Software in Object
+  Code, and (ii) permit Contractors and Your Affiliates to use the Machine-Learning-For-Predictive-Lead-Scoring
+  software as set forth in (i) above, provided that such use by Contractors must
+  be solely for Your benefit and/or the benefit of Your Affiliates, and You
+  shall be responsible for all acts and omissions of such Contractors and
+  Affiliates in connection with their use of the Machine-Learning-For-Predictive-Lead-Scoring software that are
+  contrary to the terms and conditions of this Agreement.
+
+  6.6 "License Key" means a sequence of bytes, including but not limited to a
+  JSON blob, that is used to enable certain features and functions of the
+  Machine-Learning-For-Predictive-Lead-Scoring Software.
+
+  6.7 "Marks and Notices" means all Machine-Learning-For-Predictive-Lead-Scoring trademarks, trade names, logos and
+  notices present on the Documentation as originally provided by Machine-Learning-For-Predictive-Lead-Scoring.
+
+  6.8 "Non-production Environment" means an environment for development, testing
+  or quality assurance, where software is not used for production purposes.
+
+  6.9 "Object Code" means any form resulting from mechanical transformation or
+  translation of Source Code form, including but not limited to compiled object
+  code, generated documentation, and conversions to other media types.
+
+  6.10 "Source Code" means the preferred form of computer software for making
+  modifications, including but not limited to software source code,
+  documentation source, and configuration files.
+
+  6.11 "Subscription" means the right to receive Support Services and a License
+  to the Commercial Software.
