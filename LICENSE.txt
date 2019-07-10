@@ -15,7 +15,7 @@ SUCH ENTITY.
 
 Posted Date: July 8, 2019
 
-This Agreement is entered into by and between Machine-Learning-For-Predictive-Lead-Scoring BV ("Machine-Learning-For-Predictive-Lead-Scoring") and
+This Agreement is entered into by and between Machine-Learning-For-Predictive-Lead-Scoring ("Machine-Learning-For-Predictive-Lead-Scoring") and
 You, or the legal entity on behalf of whom You are acting (as applicable,
 "You").
 
