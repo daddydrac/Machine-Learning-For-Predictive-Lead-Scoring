@@ -3,7 +3,7 @@
 ### Predictive Lead Scoring does all the hard work for you
 Predictive analytics with Machine Learning can provide your sales and marketing team with in-depth customer knowledge and ways to target the hottest and most qualified leads – resulting in saved time and higher revenue streams.
 
-* This can be used to augment my other project,[Identifying New Customers Using Machine Learning for B2B-sales](https://github.com/joehoeller/Identifying-New-Customers-Using-Machine-Learning-for-B2B-sales) < this link is no longer avail as it's a proprietary product that requires lisc'ing, please contact me at joehoeller@gmail.com for details. 
+* This can be used to augment my other project: [Identifying New Customers Using Machine Learning for B2B-sales](https://github.com/joehoeller/Identifying-New-Customers-Using-Machine-Learning-for-B2B-sales) (Please note that this link to the left is no longer avail as it's a proprietary product that requires lisc'ing, please contact me at joehoeller@gmail.com for details. 
 
 ![github-small](ls.png)
 
