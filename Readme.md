@@ -137,6 +137,6 @@ If building impactful machine learning that delivers real business value is impo
 
 ### Contact
 
-Email: joehoeller@gmail.com
+
 
 
